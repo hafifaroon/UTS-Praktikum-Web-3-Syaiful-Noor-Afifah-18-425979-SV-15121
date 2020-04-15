@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/css/main.69eda509.chunk.css",
+    "main.js": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/js/main.7e55d3c7.chunk.js",
+    "main.js.map": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/js/main.7e55d3c7.chunk.js.map",
+    "runtime-main.js": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/js/runtime-main.7349a780.js",
+    "runtime-main.js.map": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/js/runtime-main.7349a780.js.map",
+    "static/css/2.69121389.chunk.css": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/css/2.69121389.chunk.css",
+    "static/js/2.d2dc0e04.chunk.js": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/js/2.d2dc0e04.chunk.js",
+    "static/js/2.d2dc0e04.chunk.js.map": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/js/2.d2dc0e04.chunk.js.map",
+    "index.html": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/index.html",
+    "precache-manifest.bd19935df63f291d4ee14815bd2e26ef.js": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/precache-manifest.bd19935df63f291d4ee14815bd2e26ef.js",
+    "service-worker.js": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/css/2.69121389.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.d2dc0e04.chunk.js.LICENSE.txt": "/UTS-Praktikum-Web-3-Syaiful-Noor-Afifah-18-425979-SV-15121/static/js/2.d2dc0e04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7349a780.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.d2dc0e04.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.7e55d3c7.chunk.js"
+  ]
+}
